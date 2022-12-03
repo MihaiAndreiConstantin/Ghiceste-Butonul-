@@ -1,4 +1,4 @@
-let luckyNumber 
+let luckyNumber, secondLuckyNumber
 let buttonsPressed = false
 
 function randomNumbers() {
